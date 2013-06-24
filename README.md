@@ -1,6 +1,6 @@
 # make markdown links
 
-A bookmarklet for url link for markdown style.
+A bookmarklet makes url link for markdown style.
 
 ```javascript
 // Copy this to your URL bar:
