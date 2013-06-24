@@ -1,0 +1,1 @@
+(function(){var o=location.href,t=document.title,n="["+t+"]"+"("+o+")";window.prompt("Copy to clipboard: ⌘+C or Ctrl+C then Enter",n)})();
