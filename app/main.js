@@ -1,6 +1,6 @@
 /*jshint strict:false, browser:true */
 (function bookmarklet() {
-  var url = location.href,
+  var url = location.origin + location.pathname,
       title = document.title,
       markdownLink = '[' + title + ']' + '(' + url + ')';
 
