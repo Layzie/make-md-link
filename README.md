@@ -16,3 +16,7 @@ A bookmarklet makes url link for markdown style.
 3. Paste above code in browser url bar or click bookmark.
 4. Then open prompt window, you can copy a link(press ⌘+C or Ctrl+C)
 5. Finish it.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Layzie/make-md-link/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
